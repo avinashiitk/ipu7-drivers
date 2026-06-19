@@ -65,3 +65,9 @@ Three ways are available:
 	sudo dkms add .
 	sudo dkms autoinstall ipu7-drivers/0.0.0
 	```
+
+---
+
+## Badges
+
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/13159/badge)](https://www.bestpractices.dev/en/projects/13159)
